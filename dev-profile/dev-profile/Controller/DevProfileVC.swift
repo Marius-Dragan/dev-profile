@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  DevProfileVC.swift
 //  dev-profile
 //
 //  Created by Marius Dragan on 17/09/2017.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DevProfileVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
